@@ -1,5 +1,5 @@
 // ************************************** compte a rebours ********************************************
-let timer = 20;
+let timer = 10;
 let button;
 let timelaps;
 let billboard;
