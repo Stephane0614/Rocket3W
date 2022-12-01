@@ -34,7 +34,7 @@ body {
     top:100px;
     width: 314px;
     height: 200px;
-    background-image: url('./style/images/billboard.png');
+    background-image: url('style\images\billboard.png');
     background-size: auto 100%;
     background-repeat: no-repeat;
 }
